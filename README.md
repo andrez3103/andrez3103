@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 🎧 Music | Spotify Playing
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
+
+# Inspírate todavía aún + ! 
+[Awesome Github Profile READMEs](https://awesomegithubprofile.tech/)
