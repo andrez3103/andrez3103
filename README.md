@@ -1,6 +1,6 @@
 <h1>Mi README Luis Andres Quinto Rivera </h1>
 
-<p>Programador junior , enfocado en el desarrollo de aplicaciones web y escritorio , aplicando nuevas tecnologias</p>
+<p>Programador junior , enfocado en el desarrollo de aplicaciones web y escritorio.</p>
 
 
 <h4>Programming Languages</h4>
@@ -43,9 +43,6 @@
 <p>Instagram <a href="https://www.instagram.com/luisqr96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/quinto3103/">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/quinto3103/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
